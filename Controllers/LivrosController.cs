@@ -63,7 +63,7 @@ namespace EADFirstProjectApi.Controllers
         [HttpPost]
         public async Task<ActionResult<LivroDto>> PostLivro(CriarLivroDto criarLivroDto)
         {
-            // Validação: verificar se o autor e gênero existem
+            // Validação: verificar se o autor e gênero existem - pré requisito para criar um livro
             var autor = await _context.Autores.FindAsync(criarLivroDto.AutorId);
             var genero = await _context.Generos.FindAsync(criarLivroDto.GeneroId);
 
@@ -102,7 +102,6 @@ namespace EADFirstProjectApi.Controllers
                 return NotFound();
             }
 
-            // Validação: verificar se o novo autor e gênero existem
             var autorExiste = await _context.Autores.AnyAsync(a => a.Id == atualizarLivroDto.AutorId);
             var generoExiste = await _context.Generos.AnyAsync(g => g.Id == atualizarLivroDto.GeneroId);
 

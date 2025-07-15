@@ -80,11 +80,10 @@ namespace Biblioteca.Api.Controllers
                 return NotFound();
             }
 
-            // Opcional: Verificar se o gênero está sendo usado por algum livro antes de deletar
             var generoEmUso = await _context.Livros.AnyAsync(l => l.GeneroId == id);
             if (generoEmUso)
             {
-                return BadRequest("Não é possível excluir um gênero que está associado a um ou mais livros.");
+                return BadRequest("Nï¿½o ï¿½ possï¿½vel excluir um gï¿½nero que estï¿½ associado a um ou mais livros.");
             }
 
             _context.Generos.Remove(genero);

@@ -80,7 +80,6 @@ namespace EADFirstProjectApi.Controllers
                 return NotFound();
             }
 
-            // Opcional: Verificar se o autor está sendo usado por algum livro antes de deletar
             var autorEmUso = await _context.Livros.AnyAsync(l => l.AutorId == id);
             if (autorEmUso)
             {
