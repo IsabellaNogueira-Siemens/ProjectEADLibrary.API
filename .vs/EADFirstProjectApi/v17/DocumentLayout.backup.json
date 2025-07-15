@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\entities\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:entities\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\dtos\\autordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:dtos\\autordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\dtos\\livrodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:dtos\\livrodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\dtos\\generodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:dtos\\generodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\models\\entidadeauditavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:models\\entidadeauditavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\data\\interceptors\\auditoriasavechangesinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:data\\interceptors\\auditoriasavechangesinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|c:\\users\\z004w58t\\source\\repos\\eadfirstprojectapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54BA5E0-7EDE-4217-9602-409055F1EBA1}|EADFirstProjectApi.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "Entities\\Livro.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Entities\\Livro.cs",
+              "RelativeToolTip": "Entities\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:00:23.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Entities\\Genero.cs",
+              "RelativeDocumentMoniker": "Entities\\Genero.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Entities\\Genero.cs",
+              "RelativeToolTip": "Entities\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:00:17.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Entities\\Autor.cs",
+              "RelativeToolTip": "Entities\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:59:25.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutorDtos.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\DTOs\\AutorDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\AutorDtos.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\DTOs\\AutorDtos.cs",
+              "RelativeToolTip": "DTOs\\AutorDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:03:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "Controllers\\AutoresController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:02:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "Controllers\\GenerosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:36:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:02:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneroDtos.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\DTOs\\GeneroDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\GeneroDtos.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\DTOs\\GeneroDtos.cs",
+              "RelativeToolTip": "DTOs\\GeneroDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:35:42.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\Autor.cs",
+              "RelativeToolTip": "Models\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:04:13.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\Genero.cs",
+              "RelativeToolTip": "Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:04:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntidadeAuditavel.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\EntidadeAuditavel.cs",
+              "RelativeDocumentMoniker": "Models\\EntidadeAuditavel.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\EntidadeAuditavel.cs",
+              "RelativeToolTip": "Models\\EntidadeAuditavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:35:51.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroDtos.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\DTOs\\LivroDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\LivroDtos.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\DTOs\\LivroDtos.cs",
+              "RelativeToolTip": "DTOs\\LivroDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:00:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Models\\Livro.cs",
+              "RelativeToolTip": "Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:04:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuditoriaSaveChangesInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Data\\Interceptors\\AuditoriaSaveChangesInterceptor.cs",
+              "RelativeDocumentMoniker": "Data\\Interceptors\\AuditoriaSaveChangesInterceptor.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Data\\Interceptors\\AuditoriaSaveChangesInterceptor.cs",
+              "RelativeToolTip": "Data\\Interceptors\\AuditoriaSaveChangesInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:40:20.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:24:45.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\z004w58t\\source\\repos\\EADFirstProjectApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:25:45.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
